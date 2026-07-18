@@ -1,0 +1,1 @@
+# astrumbingoclient.standartpack
